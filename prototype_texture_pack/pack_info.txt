@@ -1,0 +1,10 @@
+{
+  "DisplayName": "Prototype_Mod.BetaTest",
+  "Version": "0.0 Beta",
+  "Description": "Experimental texture pack created for learning Git, GitHub and SpaceFlight Simulator texture pack.",
+  "Author": "Davi Vendruscolo",
+  "ShowIcon": false,
+  "Icon": null,
+  "name": "",
+  "hideFlags": 0
+}
